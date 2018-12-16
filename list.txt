@@ -1,5 +1,6 @@
 #New List
 127.0.0.1 goyomoney.com.tw
+127.0.0.1 www.goyomoney.com.tw
 #Known Bitcoin Miners
 127.0.0.1 coinhive.com
 127.0.0.1 www.coinhive.com
